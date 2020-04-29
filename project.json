@@ -1,0 +1,76 @@
+{
+  "title": "PILOTA VALENCIANA",
+  "author": "SERGIO ZARZOSO TOMAS",
+  "school": "CEIP DON JOSÉ ALBA (LA VILAVELLA)",
+  "date": "20/04/20",
+  "langCodes": [
+    "ca"
+  ],
+  "languages": {
+    "ca": "català"
+  },
+  "areaCodes": [
+    "ef"
+  ],
+  "areas": {
+    "ca": "Educació física"
+  },
+  "levelCodes": [
+    "PRI"
+  ],
+  "levels": {
+    "ca": "Primària (6-12)"
+  },
+  "description": {},
+  "license": {
+    "ca": "Aquesta obra està sota una llicència de Creative Commons <a href=\"https://creativecommons.org/licenses/by-nc-sa/4.0\">BY-NC-SA<\/a>"
+  },
+  "meta_langs": [
+    "ca"
+  ],
+  "mainFile": "pilota_valenciana.jclic",
+  "cover": "project-cover.jpg",
+  "thumbnail": "project-thumb.jpg",
+  "activities": 12,
+  "mediaFiles": 32,
+  "totalSize": 1124299,
+  "files": [
+    "122510657--624x542.jpg",
+    "bot_i_brac-resized1.jpg",
+    "bragueta-resized1.jpg",
+    "carrer_artificial_galotxa.jpg",
+    "carrer_llargues-resized.jpg",
+    "carxot-resized1.jpg",
+    "favicon.ico",
+    "fronto.jpg",
+    "icon-192.png",
+    "icon-72.png",
+    "imsmanifest.xml",
+    "index.html",
+    "jugadors-resized.jpg",
+    "manro-resized1.jpg",
+    "palmada-resized1.jpg",
+    "pilota_badana.jpg",
+    "pilota_esponja.jpg",
+    "pilota_esponja_1.jpg",
+    "pilota_frontball.png",
+    "pilota_fronto_tec.jpg",
+    "pilota_goma.jpg",
+    "pilota_grossa_drap-resized.jpg",
+    "pilota_madel.jpg",
+    "pilota_plastic.jpg",
+    "pilota_valenciana.jclic",
+    "pilota_valenciana.jclic.js",
+    "pilota_vaqueta.jpg",
+    "pilotari.gif",
+    "project-cover.jpg",
+    "project-thumb.jpg",
+    "project.json",
+    "puzzle_1-resized.jpg",
+    "raspada-resized1.jpg",
+    "rebot-resized1.jpg",
+    "trinquet.jpg",
+    "trinquet_frares-resized.jpg",
+    "volea-resized1.jpg"
+  ]
+}
